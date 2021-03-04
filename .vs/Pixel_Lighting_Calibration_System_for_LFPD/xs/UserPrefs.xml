@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3BC90F87-CF9E-7CF8-0112-89E1FF7F8EF3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ImageMixer.cs">
+    <Files>
+      <File FileName="Assets/CreateStripe.cs" Line="45" Column="13" />
+      <File FileName="Assets/ImageMixer.cs" Line="56" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="41e6517c-4f3a-4952-bf89-5887a131892e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
